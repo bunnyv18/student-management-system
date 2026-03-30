@@ -1,0 +1,1 @@
+[{"name": "john", "roll": "101", "marks": 90}, {"name": "john", "roll": "101", "marks": 99}, {"name": "5", "roll": "teqq6", "marks": 65}, {"name": "john", "roll": "2", "marks": 80}, {"name": "joe", "roll": "2", "marks": 85}, {"name": "ram", "roll": "3", "marks": 75}]
